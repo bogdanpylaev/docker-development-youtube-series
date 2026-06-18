@@ -7,4 +7,4 @@ spec:
   interval: 1m0s
   ref:
     branch: master
-  url: https://github.com/jora450000/docker-development-youtube-series
+  url: https://github.com/bogdanpylaev/docker-development-youtube-series
